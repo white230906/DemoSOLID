@@ -1,4 +1,4 @@
-﻿namespace SOLIDPRINCIPLE;
+﻿namespace Single_Responsibility;
 
 class Program
 {
